@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Alice Johnson",
+      "age": 20,
+      "location": "New York"
+    },
+    {
+      "name": "Bob Smith",
+      "age": 22,
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Charlie Brown",
+      "age": 19,
+      "location": "Chicago"
+    },
+    {
+      "name": "Diana White",
+      "age": 21,
+      "location": "Houston"
+    },
+    {
+      "name": "Ethan Green",
+      "age": 23,
+      "location": "Phoenix"
+    }
+  ]
+}

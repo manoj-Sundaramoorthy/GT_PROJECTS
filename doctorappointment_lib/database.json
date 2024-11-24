@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Anbu",
+      "Place": "Cbe"
+    },
+    {
+      "id": "2",
+      "name": "Surya",
+      "Place": "Chennai"
+    },
+    {
+      "id": "3",
+      "name": "Manoj",
+      "Place": "Trichy"
+    },
+    {
+      "id": "4",
+      "name": "Selvan",
+      "Place": "Madurai"
+    }
+  ]
+}

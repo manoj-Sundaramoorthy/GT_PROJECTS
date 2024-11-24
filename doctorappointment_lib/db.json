@@ -1,0 +1,24 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "John",
+      "Specialist": "Cardiologist"
+    },
+    {
+      "id": "2",
+      "name": "William",
+      "Specialist": "General"
+    },
+    {
+      "id": "3",
+      "name": "George",
+      "Specialist": "Dental"
+    },
+    {
+      "id": "4",
+      "name": "Smith",
+      "Specialist": "Pediatric"
+    }
+  ]
+}
